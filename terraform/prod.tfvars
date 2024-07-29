@@ -1,0 +1,5 @@
+aws_region       = "us-east-1"
+account_email    = "marty+blogspam@nalth.is"
+new_account_name = "Blog Account"
+parent_ou        = "ou-3jjp-1jd3v49d"
+delete_account   = "true"
